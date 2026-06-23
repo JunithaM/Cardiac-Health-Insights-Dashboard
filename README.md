@@ -39,8 +39,8 @@ Based on the [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets
 
 ## 📸 Dashboard Preview
 
-![Summary](Analysis_1.png)
-![Age Trends](Analysis_2.png)
-![Interactive View](Analysis_3.png)
+![Summary](Analysis 1.png)
+![Age Trends](Analysis 2.png)
+![Interactive View](Analysis 3.png)
 
 
